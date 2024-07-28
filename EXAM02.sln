@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteExam02", "RouteExam02\RouteExam02.csproj", "{AD4FEAD1-8F5D-46C7-8136-8442D28A686F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4FEAD1-8F5D-46C7-8136-8442D28A686F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4FEAD1-8F5D-46C7-8136-8442D28A686F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4FEAD1-8F5D-46C7-8136-8442D28A686F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4FEAD1-8F5D-46C7-8136-8442D28A686F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F24403A4-CF24-4F6D-92E8-95DD5DA3091D}
+	EndGlobalSection
+EndGlobal
