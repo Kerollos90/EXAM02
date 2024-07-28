@@ -83,6 +83,7 @@ namespace RouteExam02
                 Console.WriteLine($"Right Answer => {question.RightAnswer.AnswerText}\n");
             } 
 
+
             stopwatch.Stop();
             Console.WriteLine("-----------------------------------");
             Console.WriteLine($"| Time {stopwatch.Elapsed}\n| Thank You ");
